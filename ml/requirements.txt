@@ -6,3 +6,4 @@ pandas
 scikit-learn
 pytest
 python-multipart
+python-dotenv
